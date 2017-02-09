@@ -1,0 +1,114 @@
+
+body{
+	margin: 20px;
+	text-align: center;
+	
+}
+
+
+.container{
+	width:1200px; 
+	margin:0 auto;
+	overflow: hidden;
+    box-shadow: 5px 5px 12px black;
+
+}
+
+.left {
+    background-color: #b19191;
+    width: 25%;
+    float: left;
+    height: 180px;
+}
+.center{
+background-color:#585151 ;
+width: 25%;
+float: left;
+height: 180px;
+
+}
+
+.right{
+	background-color:#b19191 ;
+	width: 25%; 
+	float: left;
+	height: 180px;
+}
+
+.top{
+background-color:#585151 ;
+width: 25%;
+float: left;
+height: 180px;
+
+
+}
+
+
+.one{
+	background-color: seagreen;
+	width: 25%;
+	height: 178px;
+	float: left;
+}
+
+.two{
+	background-color:#7f8a69;
+	width: 50%;
+	float: left;
+	height: 178px;
+}
+.three {
+    background-color: #585151;
+    width: 25%;
+    float: left;
+    height: 178px;
+}
+.four{
+	background-color: seagreen;
+	width:25% ;
+	height: 180px;
+	float: left;
+}
+.five{background-color:#b19191; 
+	width:16.67%;
+	float: left;
+	height: 180px;
+	
+}
+.six{
+	background-color:#585151; 
+	width:16.66%;
+	float: left;
+	height: 180px;
+}
+.seven{background-color:rgb(46, 139, 87);; 
+	width:16.67%;
+	float: left;
+	height: 180px;
+
+}
+.eigth{
+	background-color:#b19191; 
+	width:25%;
+	float: left;
+	height: 180px;
+
+}
+
+p{
+	font-size: 20px;
+	color: white;
+	word-spacing: 1px;
+	margin: 0px;
+	text-align: justify;
+	word-spacing: 1.5px;
+	letter-spacing: 1px;
+	padding: 20px 30px;
+}
+.two > p{
+	
+	font-size: 23px;
+	line-height: 1.6;
+	letter-spacing: 1.1px;
+}
